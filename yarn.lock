@@ -235,10 +235,10 @@
     lodash-es "^4.17.15"
     query-string "^6.13.1"
 
-"@jimengio/ruled-validator@^0.1.1-a1":
-  version "0.1.1-a1"
-  resolved "https://registry.npmjs.org/@jimengio/ruled-validator/-/ruled-validator-0.1.1-a1.tgz#5277e05c23d65710b622ea11a0040f5b23f4d3f2"
-  integrity sha512-9pNccR8wYXiKpEdIolcPJb5l+w0uvaBVFzvgycQa0B4MloJMpgP9QuGDchKCFqiJ1ezAiIq+ICmXw70CPfcYUw==
+"@jimengio/ruled-validator@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@jimengio/ruled-validator/-/ruled-validator-0.1.1.tgz#1dc6e26db0490461570f7c5abfef1cf104a25e0d"
+  integrity sha512-E27B6n2jfy6N/Y8m1aiiRz4ByRZ+FSJLvE0M1SQE6NeIUnLnDvtlYxSujXFqLxP+ZGmCMcVNm7qt5k4VOwfioQ==
 
 "@jimengio/safe-property@^0.0.2":
   version "0.0.2"
