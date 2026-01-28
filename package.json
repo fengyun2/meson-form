@@ -86,7 +86,7 @@
   },
   "dependencies": {
     "@jimengio/ruled-validator": "^0.1.1-a1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.23",
     "use-immer": "^0.4.0"
   }
 }
